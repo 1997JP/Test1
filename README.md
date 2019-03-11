@@ -10,7 +10,3 @@ hi day 2
 jaspreet
  
 hello me jaspreet
-
-hi i am here
-
-hi me jessie
